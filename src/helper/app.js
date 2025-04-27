@@ -1,0 +1,9 @@
+export const APPSTACKROUTE = 'App';
+export const LOGINSTACKROUTE = 'LoginStack';
+export const HOMESTACKDRAWERROUTE = 'Home';
+export const DUMMYSTACKDRAWERROUTE = 'DummyPage';
+export const FLIGHTLISTSTACKDRAWERROUTE = 'FlightList';
+export const PASSENGERDETAILSTACKDRAWERROUTE = 'PassengerDetail';
+export const PASSENGERDETAIL2STACKDRAWERROUTE = 'PassengerDetail2';
+export const PAYMENTANDTICKETSTACKDRAWERROUTE = 'PaymentAndTicket';
+export const LOADINGSEARCHSCREEN = 'LoadingSerchScreen';
